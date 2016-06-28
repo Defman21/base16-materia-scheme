@@ -5,10 +5,9 @@ Materia
     <img src="./palette.png">
 </p>
 
-*Materia* is a palette of 16 colors for [base16 builder](https://github.com/Komodo/base16-builder).
+*Materia* is a palette of 16 colors for [base16 builder](https://github.com/chriskempson/base16).
 
-Copy `materia.yml` to `base16-builder/materia.yml` and run `./base16 -s schemes/materia.yml` to build it.
+See [this repo](https://github.com/chriskempson/base16-builder-php) for building instructions.
 
 Also there's a [Komodo color scheme](https://github.com/Defman21/materia-komodo).
 
-Materia is licensed under a CC BY-SA 4.0 International License.
